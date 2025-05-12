@@ -62,8 +62,8 @@
         <mxCell id="_5_J5Y2If2ce0FDsi1l5-105" value="Print Cost Report" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fe7070;strokeWidth=1.5;lucidId=~xIeha3OeAVz;" vertex="1" parent="_5_J5Y2If2ce0FDsi1l5-74">
           <mxGeometry x="80" y="840" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_5_J5Y2If2ce0FDsi1l5-13" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=162;fillColor=#ffffff;strokeWidth=1.5;lucidId=qHtdmG4HjMHo;container=1;collapsible=0;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1635" width="390" height="92" as="geometry" />
+        <mxCell id="_5_J5Y2If2ce0FDsi1l5-13" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=162;fillColor=#ffffff;strokeWidth=1.5;lucidId=qHtdmG4HjMHo;container=1;collapsible=0;" vertex="1" parent="_5_J5Y2If2ce0FDsi1l5-74">
+          <mxGeometry x="305" y="1530" width="390" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_5_J5Y2If2ce0FDsi1l5-14" value="Terminator" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#979ea8;spacing=3.8;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=75;fillColor=#979ea8;strokeWidth=1.5;lucidId=IHtdpJWPwF3h;" vertex="1" parent="_5_J5Y2If2ce0FDsi1l5-13">
           <mxGeometry x="31" y="10" width="82" height="41" as="geometry" />
