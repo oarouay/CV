@@ -373,9 +373,6 @@
             <mxPoint x="52" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HP1YIicsyZ3_yITUAPQ2-188" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-41" y="780" width="1301" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="HP1YIicsyZ3_yITUAPQ2-189" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;[ Invalid fields ]&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="16" y="570" width="130" height="30" as="geometry" />
         </mxCell>
@@ -482,6 +479,9 @@
         </mxCell>
         <mxCell id="HP1YIicsyZ3_yITUAPQ2-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Authenticate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HP1YIicsyZ3_yITUAPQ2-103">
           <mxGeometry x="665.3472222222222" y="20" width="93.05555555555557" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HP1YIicsyZ3_yITUAPQ2-188" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="780" width="1301" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
