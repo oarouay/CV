@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="2003" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HP1YIicsyZ3_yITUAPQ2-217" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="-150" width="1530" height="1240" as="geometry" />
+        <mxCell id="HP1YIicsyZ3_yITUAPQ2-218" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-150" width="1390" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="HP1YIicsyZ3_yITUAPQ2-151" value="" style="endArrow=block;html=1;rounded=0;endFill=1;exitX=0.946;exitY=0.316;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HP1YIicsyZ3_yITUAPQ2-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -18,7 +18,7 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HP1YIicsyZ3_yITUAPQ2-140" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.278;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HP1YIicsyZ3_yITUAPQ2-217">
+        <mxCell id="HP1YIicsyZ3_yITUAPQ2-140" value="" style="edgeStyle=none;endArrow=none;dashed=1;" edge="1" parent="1">
           <mxGeometry x="272.3350694444445" y="165" width="100" height="100" as="geometry">
             <mxPoint x="204.62" y="280" as="sourcePoint" />
             <mxPoint x="205" y="1090" as="targetPoint" />
@@ -95,7 +95,7 @@
           <mxGeometry x="1137.5" y="-66" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="71" value="Create Campaign" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="-200" y="-130" width="150" height="30" as="geometry" />
+          <mxGeometry x="-60" y="-142" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HP1YIicsyZ3_yITUAPQ2-91" value="Marketing Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-4" y="-100" width="30" height="60" as="geometry" />
