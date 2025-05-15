@@ -27,7 +27,7 @@
         <mxCell id="c4HncwkxYFuYoy9ugYBa-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c4HncwkxYFuYoy9ugYBa-2" source="c4HncwkxYFuYoy9ugYBa-3" target="c4HncwkxYFuYoy9ugYBa-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c4HncwkxYFuYoy9ugYBa-3" value="Create Content" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="c4HncwkxYFuYoy9ugYBa-2">
+        <mxCell id="c4HncwkxYFuYoy9ugYBa-3" value="Create Email" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="c4HncwkxYFuYoy9ugYBa-2">
           <mxGeometry x="72" y="187" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c4HncwkxYFuYoy9ugYBa-4" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="c4HncwkxYFuYoy9ugYBa-2">
