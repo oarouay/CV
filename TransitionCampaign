@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Ys88V-H4aqcKM6JvtoS-22" value="Completed" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="125" width="90" height="40" as="geometry" />
+          <mxGeometry x="535" y="125" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Ys88V-H4aqcKM6JvtoS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ys88V-H4aqcKM6JvtoS-32" target="4Ys88V-H4aqcKM6JvtoS-22">
           <mxGeometry relative="1" as="geometry" />
@@ -51,14 +51,14 @@
         </mxCell>
         <mxCell id="4Ys88V-H4aqcKM6JvtoS-39" value="Cancel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Ys88V-H4aqcKM6JvtoS-37">
           <mxGeometry x="-0.7817" y="-2" relative="1" as="geometry">
-            <mxPoint y="3" as="offset" />
+            <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4Ys88V-H4aqcKM6JvtoS-32" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="195" width="51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4Ys88V-H4aqcKM6JvtoS-36" value="Canceled" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="535" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Ys88V-H4aqcKM6JvtoS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ys88V-H4aqcKM6JvtoS-40" target="4Ys88V-H4aqcKM6JvtoS-20">
           <mxGeometry relative="1" as="geometry" />
