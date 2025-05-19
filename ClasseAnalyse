@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="nPeRdowAQdwZzGwzDk1P">
-    <mxGraphModel dx="2977" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -489,7 +489,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aeg1yUgR7GFzLjjH1s8K-149" value="PRODUCT" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=13;align=center;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="960" y="584" width="160" height="130" as="geometry">
+          <mxGeometry x="1058" y="620" width="160" height="130" as="geometry">
             <mxRectangle x="270" y="979" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
