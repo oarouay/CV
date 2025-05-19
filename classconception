@@ -701,9 +701,6 @@
         <mxCell id="6Kf3iiucWtN3N_5NxB5b-248" value="create" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6Kf3iiucWtN3N_5NxB5b-245" vertex="1">
           <mxGeometry y="120" width="213" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Kf3iiucWtN3N_5NxB5b-354" value="" style="group;fontSize=13;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1735" y="3239" width="420" height="92" as="geometry" />
-        </mxCell>
         <mxCell id="6Kf3iiucWtN3N_5NxB5b-259" value="SOCIAL_EMAIL" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=13;align=center;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1639" y="860" width="160" height="160" as="geometry" />
         </mxCell>
