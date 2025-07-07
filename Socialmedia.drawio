@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="5Rc6Ezho4QFnXNCgOh6-">
-    <mxGraphModel dx="2722" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3804" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-1" value="Email" style="shape=folder;fontStyle=1;tabWidth=210;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=0;collapsible=0;whiteSpace=wrap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-390" y="160" width="590" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-2" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-2" value="Marketing&lt;br&gt;Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-480" y="437.88" width="52.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-5" value="Export csv file" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#979ea8;strokeWidth=1.5;lucidId=2WIeNPYyiRF.;" parent="1" vertex="1">
@@ -45,12 +45,6 @@
           <mxGeometry x="-330" y="425.3534653465346" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="T7Y7Nt0oXqHKT2gE6_8J-2" target="T7Y7Nt0oXqHKT2gE6_8J-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-31" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="578.71" width="52.5" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="T7Y7Nt0oXqHKT2gE6_8J-31" target="T7Y7Nt0oXqHKT2gE6_8J-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T7Y7Nt0oXqHKT2gE6_8J-67" value="Filter Emails" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=1.5;lucidId=1yIeQ48BPR4-;strokeColor=#82b366;" parent="1" vertex="1">
