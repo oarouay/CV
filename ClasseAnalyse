@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="nPeRdowAQdwZzGwzDk1P">
-    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2316" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9TsMS6UAaCipPN_0dadX-1" value="Marketing Module" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="498" width="1220" height="1270" as="geometry" />
-        </mxCell>
         <mxCell id="aeg1yUgR7GFzLjjH1s8K-3" value="MARKETING_CAMPAIGN" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=13;align=center;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="639" y="730" width="201" height="208" as="geometry" />
         </mxCell>
@@ -32,7 +29,7 @@
           <mxGeometry y="182" width="201" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aeg1yUgR7GFzLjjH1s8K-11" value="SOCIAL_EMAIL" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=13;align=center;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1118" y="1060" width="160" height="160" as="geometry" />
+          <mxGeometry x="1118" y="1060" width="160" height="1426" as="geometry" />
         </mxCell>
         <mxCell id="aeg1yUgR7GFzLjjH1s8K-12" value="-&amp;nbsp;id&amp;nbsp;: Integer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" parent="aeg1yUgR7GFzLjjH1s8K-11" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -48,6 +45,9 @@
         </mxCell>
         <mxCell id="aeg1yUgR7GFzLjjH1s8K-17" value="-&amp;nbsp;content&amp;nbsp;: String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" parent="aeg1yUgR7GFzLjjH1s8K-11" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsMS6UAaCipPN_0dadX-1" value="Marketing Module" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="aeg1yUgR7GFzLjjH1s8K-11" vertex="1">
+          <mxGeometry y="156" width="160" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="aeg1yUgR7GFzLjjH1s8K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;fontSize=13;" parent="1" source="aeg1yUgR7GFzLjjH1s8K-19" edge="1">
           <mxGeometry relative="1" as="geometry">
